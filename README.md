@@ -1,2 +1,4 @@
 # PS_Export_WindowsServices
-Powershell Script to Export Windows Services
+## Script Powershell para exportar os serviços (services.msc) do Windows como um arquivo delimitado (csv).
+
+
